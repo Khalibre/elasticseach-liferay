@@ -1,0 +1,8 @@
+---
+commitizen:
+  name: cz_conventional_commits
+  tag_format: v8.11.1-debian-11-r0
+  update_changelog_on_bump: true
+  version: 0.0.1
+  version_scheme: semver
+  gpg_sign: true
